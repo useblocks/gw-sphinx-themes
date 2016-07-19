@@ -1,10 +1,10 @@
-Modifications: 
+Modifications Groundwork:
+Copyright (c) 2016 Daniel Woste
 
+Modifications:
 Copyright (c) 2010 Kenneth Reitz.
 
-
 Original Project: 
-
 Copyright (c) 2010 by Armin Ronacher.
 
 
@@ -27,9 +27,9 @@ are met:
   prior written permission.
 
 We kindly ask you to only use these themes in an unmodified manner just
-for Flask and Flask-related products, not for unrelated projects.  If you
-like the visual style and want to use it for your own projects, please
-consider making some larger changes to the themes (such as changing
+for groundwork and groundwork-related products, not for unrelated projects.
+If you like the visual style and want to use it for your own projects,
+please consider making some larger changes to the themes (such as changing
 font faces, sizes, colors or margins).
 
 THIS THEME IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
