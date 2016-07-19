@@ -231,7 +231,7 @@ div.highlight {
 }
 
 dt:target, .highlight {
-    background: #FAF3E8;
+    background: #333;
 }
 
 div.note {

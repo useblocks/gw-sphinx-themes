@@ -17,5 +17,5 @@ projects.  To use this style in your Sphinx documentation, follow this guide:
 The following themes exist:
 
 **gw**
-	the standard groundwork documentation theme for large projects
+	the standard groundwork documentation theme for any kind of projects
 
