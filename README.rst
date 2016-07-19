@@ -19,6 +19,3 @@ The following themes exist:
 **gw**
 	the standard groundwork documentation theme for large projects
 
-**gw_small**
-	small one-page theme.  Intended to be used by very small pattern/plugin projects.
-
