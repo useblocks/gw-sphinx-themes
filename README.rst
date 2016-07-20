@@ -19,3 +19,12 @@ The following themes exist:
 **gw**
 	the standard groundwork documentation theme for any kind of projects
 
+
+Screenshot
+----------
+
+.. image:: screenshot.png
+    :height: 400px
+    :alt: screenshot of groundwork sphinx theme
+    :align: center
+
