@@ -196,11 +196,9 @@ div.body p, div.body dd, div.body li {
 }
 
 div.admonition {
-    background: #fafafa;
+    background: none;
     margin: 20px -30px;
     padding: 10px 30px;
-    border-top: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
 }
 
 div.admonition tt.xref, div.admonition a tt {
@@ -237,8 +235,13 @@ dt:target, .highlight {
 }
 
 div.note {
-    background-color: #eee;
-    border: 1px solid #ccc;
+    background-color: #555;
+    border: none;
+}
+
+div.warning {
+    background-color: #7f1212;
+    border: none;
 }
 
 div.seealso {
