@@ -219,7 +219,8 @@ dd div.admonition {
 }
 
 div.admonition p.admonition-title {
-    font-family: 'Garamond', 'Georgia', serif;
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /* font-family: 'Garamond', 'Georgia', serif; */
     font-weight: normal;
     font-size: 24px;
     margin: 0 0 10px 0;
