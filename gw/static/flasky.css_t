@@ -470,6 +470,12 @@ a:hover tt {
     display: none!important;
 }
 
+/* API layout */
+
+code.descname {
+    color : #ffffff;
+}
+
 /* Pygmets overwrites  */
 .highlight .nf { color: #ffcc00 !important; } /* function name */
 .highlight .nc { color: #ffcc00 !important; } /* class name */
