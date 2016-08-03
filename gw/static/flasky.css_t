@@ -149,9 +149,12 @@ div.sphinxsidebar ul {
 }
 
 div.sphinxsidebar input {
-    border: 1px solid #ccc;
+    /*border: 1px solid #ccc;*/
+    border: 1px solid #333;
+    background-color: #555;
     font-family: 'Georgia', serif;
     font-size: 1em;
+    color: #ddd;
 }
 
 /* -- body styles ----------------------------------------------------------- */
