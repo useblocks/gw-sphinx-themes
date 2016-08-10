@@ -491,3 +491,12 @@ code.descname {
 .highlight .k { color: #918a6f !important; } /*  class, def name */
 .highlight .o { color: #ffffff !important; } /* function name */
 .highlight .nb { color: #ffffff !important; } /* super, print name */
+
+
+/*
+Needed for readthedocs.io, because it adding its own css, which destroy our images.
+See https://github.com/rtfd/readthedocs.org/issues/2348
+*/
+img {
+    width: auto !important;
+}
