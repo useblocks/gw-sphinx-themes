@@ -422,6 +422,10 @@ a:hover tt {
 
 @media screen and (max-width: 600px) {
 
+    .github_fork {
+        display: none;
+    }
+
     div.sphinxsidebar {
     	display: none;
     }
@@ -446,7 +450,7 @@ a:hover tt {
     }
 
     ul {
-    	margin-left: 0;
+    	margin-left: 30;
     }
 
     .document {

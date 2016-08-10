@@ -8,7 +8,15 @@
 
 body {
     margin: 0;
-    padding: 20px 30px;
+    padding: 0 10px 0 10px;
+}
+
+.github_fork {
+    display: none;
+}
+
+div.document {
+    margin: 10px;
 }
 
 div.documentwrapper {
