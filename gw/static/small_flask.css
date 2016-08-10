@@ -85,6 +85,12 @@ div.body {
 	width: auto;
 }
 
-.github {
-    display: none;
+/*
+Needed for readthedocs.io, because it adding its own css, which destroy our images.
+See https://github.com/rtfd/readthedocs.org/issues/2348
+*/
+@media screen and (max-width: 768px) {
+  img {
+    width: auto;
+  }
 }
