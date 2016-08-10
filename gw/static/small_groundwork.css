@@ -90,5 +90,6 @@ Needed for readthedocs.io, because it adding its own css, which destroy our imag
 See https://github.com/rtfd/readthedocs.org/issues/2348
 */
 img {
-width: auto !important;
+    width: auto !important;
 }
+
