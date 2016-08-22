@@ -21,7 +21,6 @@ div.document {
 
 div.documentwrapper {
     float: none;
-    background: white;
 }
 
 div.sphinxsidebar {
@@ -74,7 +73,7 @@ div.bodywrapper {
 
 div.body {
     min-height: 0;
-    padding: 0;
+    padding: 10px;
 }
 
 .rtd_doc_footer {
@@ -91,5 +90,13 @@ div.body {
 
 .footer {
 	width: auto;
+}
+
+pre {
+    margin: 15px -10px !important;
+}
+
+div.admonition {
+    margin: 20px -10px !important;
 }
 
