@@ -19,6 +19,21 @@ The following themes exist:
 **gw**
 	the standard groundwork documentation theme for any kind of projects
 
+Configuration
+-------------
+The gwTheme provides the following configuration parameters:
+
+ * **contribute**: If True, a contribute-area with github-buttons is shown inside the sidebar
+ * **github_user**: Used the for github follow button. E.g.: useblocks
+ * **github_fork**: Used for the github fork buttons. E.g.: useblocks/groundwork
+
+You can change their value inside the file `conf.py` of your sphinx project::
+
+    html_theme_options = {
+        "contribute": True,
+        "github_fork": "useblocks/groundwork",
+        "github_user": "useblocks",
+    }
 
 Screenshot
 ----------
