@@ -494,6 +494,7 @@ code.descname {
 .highlight .k { color: #918a6f !important; } /*  class, def name */
 .highlight .o { color: #ffffff !important; } /* function name */
 .highlight .nb { color: #ffffff !important; } /* super, print name */
+.highlight .go { color: #aaaaaa !important; } /* super, print name */
 
 
 /*
