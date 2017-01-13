@@ -539,3 +539,30 @@ table.indextable tr.cap {
 div.figure p.caption {
     text-align: center
 }
+
+table.highlighttable pre {
+    margin: 0;
+}
+
+table.highlighttable {
+    margin: 0;
+    width: 100%;
+    border-spacing: 0px;
+}
+
+div.highlight-python {
+    margin: 0 -30px 0 -30px;
+}
+
+table.highlighttable td {
+ padding: 0;
+}
+
+div.linenodiv {
+    background-color: #2b2b2b;
+    padding: 0;
+}
+
+td.linenos pre  {
+    padding: 7px 5px;
+}
