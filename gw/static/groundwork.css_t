@@ -535,3 +535,7 @@ div.sidebar div.topic p.topic-title {
 table.indextable tr.cap {
     background-color: transparent !important;
 }
+
+div.figure p.caption {
+    text-align: center
+}
