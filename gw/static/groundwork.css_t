@@ -557,6 +557,10 @@ div.highlight-python, div.highlight-jinja {
 
 }
 
+div.highlight-json .nt {
+    color: #ff9900;
+}
+
 table.highlighttable td {
  padding: 0;
 }
