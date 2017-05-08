@@ -588,3 +588,8 @@ p.plantuml object {
 
 }
 
+.highlighted {
+    background-color: transparent;
+    color: #0e84b5;
+
+}
