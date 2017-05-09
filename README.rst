@@ -23,6 +23,8 @@ Configuration
 -------------
 The gwTheme provides the following configuration parameters:
 
+ * **stickysidbar**: If True it makes the sidebar always visible if pages get longer (Default: True)
+ * **stickysidbarscrollable**: Makes the sticky sidebar scrollable in small browser windows (Default: False)
  * **contribute**: If True, a contribute-area with github-buttons is shown inside the sidebar
  * **github_user**: Used the for github follow button. E.g.: useblocks
  * **github_fork**: Used for the github fork buttons. E.g.: useblocks/groundwork
