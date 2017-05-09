@@ -593,3 +593,8 @@ p.plantuml object {
     color: #0e84b5;
 
 }
+
+/* Sidebar TOC: make the current chapter bold */
+.current.reference.internal {
+    font-weight: bold;
+}
