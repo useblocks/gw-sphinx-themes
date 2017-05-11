@@ -8,7 +8,7 @@
 
 {#{% set page_width = '940px' %} #}
 {% set page_width = '1024px' %}
-{% set sidebar_width = '220px' %}
+{# {% set sidebar_width = '220px' %} #}
 
 @import url("basic.css");
 
@@ -40,11 +40,11 @@ div.documentwrapper {
 }
 
 div.bodywrapper {
-    margin: 0 0 0 {{ sidebar_width }};
+    margin: 0 0 0 {{ theme_sidebar_width }};
 }
 
 div.sphinxsidebar {
-    width: {{ sidebar_width }};
+    width: {{ theme_sidebar_width }};
 }
 
 hr {

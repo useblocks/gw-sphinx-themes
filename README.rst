@@ -23,6 +23,7 @@ Configuration
 -------------
 The gwTheme provides the following configuration parameters:
 
+ * **sidebar_width**: Allows the user to set the sidebar width in pixels. Good for deeply nested TOCs (Default: 220x)
  * **stickysidbar**: If True it makes the sidebar always visible if pages get longer (Default: True)
  * **stickysidbarscrollable**: Makes the sticky sidebar scrollable in small browser windows (Default: False)
  * **contribute**: If True, a contribute-area with github-buttons is shown inside the sidebar
@@ -32,6 +33,9 @@ The gwTheme provides the following configuration parameters:
 You can change their value inside the file `conf.py` of your sphinx project::
 
     html_theme_options = {
+        "sidebar_width": '240px',
+        "stickysidebar": True,
+        "stickysidebarscrollable": True,
         "contribute": True,
         "github_fork": "useblocks/groundwork",
         "github_user": "useblocks",
@@ -44,4 +48,3 @@ Screenshot
     :height: 400px
     :alt: screenshot of groundwork sphinx theme
     :align: center
-
