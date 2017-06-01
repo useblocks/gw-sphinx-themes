@@ -513,9 +513,9 @@ code.descname {
 Needed for readthedocs.io, because it adding its own css, which destroy our images.
 See https://github.com/rtfd/readthedocs.org/issues/2348
 */
-img {
+/* img {
     width: auto !important;
-}
+}*/
 
 
 div.sidebar {
